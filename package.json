@@ -4,7 +4,7 @@
     "name": "none",
     "displayName": "none",
     "description": "I'am tired of all these ugly themes",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.73.0"
     },
