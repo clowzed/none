@@ -1,0 +1,27 @@
+{
+    "publisher": "clowzed",
+    "repository": "https://github.com/clowzed/none",
+    "name": "none",
+    "displayName": "none",
+    "description": "I'am tired of all these ugly themes",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+                "label": "none-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/none-color-theme.json"
+            },
+            {
+                "label": "none-light",
+                "uiTheme": "vs",
+                "path": "./themes/none-light-color-theme.json"
+            }
+        ]
+    }
+}
