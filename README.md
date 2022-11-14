@@ -11,7 +11,9 @@
 
 <br />
 <br />
-<a style = "font-weight: 600;" href="vscode:extension/clowzed.none">Click here to install</a>
+
+[Click here to install](vscode:extension/clowzed.none).
+
 <br/>
 <h1>None-dark</h1>
 <img style="border: 1px solid white; border-radius: 6px;" src="./media/dark.jpeg">
