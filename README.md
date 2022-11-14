@@ -1,10 +1,10 @@
 <div align="center">
-    <a href="vscode:extension/clowzed.none"><img src="./media/logo.png"></a>
+    <img src="./media/logo.png">
     <br />
     <br />
     <br />
     <h1>
-        Click logo to install
+        <a href="vscode:extension/clowzed.none">Click here to install</a>
     </h1>
     <img alt="GitHub" src="https://img.shields.io/github/license/clowzed/none">
     <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/clowzed.none">
