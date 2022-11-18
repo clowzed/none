@@ -4,9 +4,10 @@
     "name": "none",
     "displayName": "none",
     "description": "I'am tired of all these ugly themes",
-    "version": "0.1.1",
+    "icon": "media/logo.png",
+    "version": "0.2.0",
     "engines": {
-        "vscode": "^1.73.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
